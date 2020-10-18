@@ -33,16 +33,16 @@ before creating ngrams and word frequency for each coin
 
 Finally, We generate word clouds for each coin to summarize the news for each coin.
 
-![btc-word-cloud.png](Resources/btc-word-cloud.png)
+![btc_word_cloud.png](Resources/btc_word_cloud.png)
 
-![eth-word-cloud.png](Resources/eth-word-cloud.png)
+![eth_word_cloud.png](Resources/eth_word_cloud.png)
 
 ### Named Entity Recognition
 
 In this section, We will build a named entity recognition model for both coins and visualize the tags using SpaCy.
 
-![btc-ner.png](Resources/btc-ner.png)
+![btc_ner.png](Resources/btc_ner.png)
 
-![eth-ner.png](Resources/eth-ner.png)
+![eth_ner.png](Resources/eth_ner.png)
 
 ---
